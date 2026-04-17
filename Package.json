@@ -1,0 +1,16 @@
+{
+  "name": "harsh-elite-predictor",
+  "version": "1.0.0",
+  "description": "80-95% Accuracy Wingo 30S Predictor with Actual Win Loss Tracking",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "express": "^4.21.2"
+  },
+  "author": "Harsh",
+  "license": "ISC"
+}
